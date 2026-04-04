@@ -270,7 +270,7 @@ export default function Home() {
               {status === "error" && <div className="error-note">⚠️ {errorMsg}</div>}
 
               <a 
-                href="https://github.com/kafahim993/Anonymus-Messaage-" 
+                href="https://github.com/kafahim993/Anonymous-Message" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="github-link"
